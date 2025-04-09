@@ -46,3 +46,8 @@ npm run dev
 ```
 
 Open http://localhost:5173 to view it in the browser.
+
+## Screenshots
+
+### Home Page with Autocomplete Search
+![Home Page](./public/vite.svg)
