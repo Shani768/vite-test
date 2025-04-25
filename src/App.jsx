@@ -9,6 +9,7 @@ function App() {
   return (
     <>
       <h1>Hello </h1>
+      <input type="text" placeholder="enter something" />
       <div>
         <a href="https://vite.dev" target="_blank">
           <img src={viteLogo} className="logo" alt="Vite logo" />
